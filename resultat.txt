@@ -2,8 +2,8 @@ citizen kane 199
 the wizard of oz 191
 the godfather 191
 casablanca 184
-all about eve 167
 et the extra terrestrial 167
+all about eve 167
 sunset boulevard 157
 psycho 154
 snow white and the seven dwarfs 149
@@ -18,18 +18,19 @@ the treasure of the sierra madre 116
 taxi driver 115
 the philadelphia story 113
 modern times 112
+dr strangelove 106
 a streetcar named desire 100
 the third man 98
-get out 97
 raging bull 97
-mad max fury road 96
+get out 97
 singin’ in the rain 96
+mad max fury road 96
 lawrence of arabia 95
-the cabinet of dr. caligari 95
+the cabinet of dr caligari 95
 high noon 93
 on the waterfront 93
-schindler s list 93
 inside out 93
+schindler s list 93
 the grapes of wrath 92
 metropolis 91
 city lights 90
@@ -38,44 +39,43 @@ star wars episode iv a new hope 88
 singin in the rain 87
 2001 a space odyssey 86
 boyhood 85
-the graduate 84
 laura 84
+the graduate 84
 nosferatu a symphony of horror 83
 the general 83
-it s a wonderful life 81
 moonlight 81
-a hard day s night 80
+it s a wonderful life 81
 chinatown 80
+a hard day s night 80
 some like it hot 79
 the battle of algiers 79
 la grande illusion 78
 the godfather part ii 77
 to kill a mockinbird 76
-mr smith goes to washington 75
 repulsion 75
+mr smith goes to washington 75
 12 years a slave 74
 gravity 73
 double indemnity 72
 apocalypse now 71
 the adventures of robin hood 70
-one flew over the cuckoo s nest 68
 rashomon 68
+one flew over the cuckoo s nest 68
 annie hall 66
-the bridge on the river kwai 65
 spotlight 65
-selma 64
+the bridge on the river kwai 65
 the best years of our lives 64
+selma 64
 toy story 3 63
-12 angry men 62
 argo 62
-dr strangelove 62
-toy story 2 61
+12 angry men 62
 the sound of music 61
+toy story 2 61
 the bride of frankenstein 60
 bonnie and clyde 59
 m 59
-midnight cowboy 58
 logan 58
+midnight cowboy 58
 zootopia 57
 shane 56
 alien 55
@@ -84,15 +84,14 @@ intolerance 52
 up 52
 all quiet on the western front 51
 the lord of the rings the fellowship of the ring 51
-jaws 50
 west side story 50
+jaws 50
 the 400 blows 50
 bicycle thieves 49
 the deer hunter 48
-army of shadows 47
 m*a*s*h 47
+army of shadows 47
 the night of the hunter 45
-dr. strangelove 44
 rocky 44
 rebecca 43
 the gold rush 43
@@ -105,37 +104,37 @@ american graffiti 39
 the conformist 39
 the dark knight 38
 cabaret 38
-la la land 37
 network 37
+la la land 37
 the african queen 36
 touch of evil 36
 raiders of the lost ark 35
 star wars: episode vii the force awakens 35
 who s afraid of virginia woolf 34
 finding nemo 34
-manchester by the sea 33
 unforgiven 33
+manchester by the sea 33
 the wrestler 32
 tootsie 32
-a clockwork orange 31
 the babadook 31
+a clockwork orange 31
 saving private ryan 30
-l.a. confidential 30
+la confidential 30
 the good the bad and the ugly 29
 the shawshank redemption 29
 butch cassidy and the sundance kid 28
 the 39 steps 28
-the silence of the lambs 27
 the hurt locker 27
+the silence of the lambs 27
 skyfall 26
 in the heat of the night 26
 forrest gump 25
 pinocchio 24
 all the president s men 24
-the last picture show 23
 brooklyn 23
-open city 22
+the last picture show 23
 the wild bunch 22
+open city 22
 the apartment 21
 tokyo story 21
 hell or high water 20
@@ -146,8 +145,8 @@ titanic 18
 easy rider 17
 the jungle book 16
 a night at the opera 16
-wonder woman 15
 platoon 15
+wonder woman 15
 bringing up baby 13
 the wages of fear 13
 the sixth sense 12
@@ -155,15 +154,15 @@ roman holiday 12
 swing time 11
 sophie s choice 10
 harry potter and the deathly hallows part 2 10
-it follows 9
 goodfellas 9
-the french connection 8
+it follows 9
 toy story 8
-man on wire 7
+the french connection 8
 pulp fiction 7
+man on wire 7
 do the right thing 5
-battleship potemkin 4
 blade runner 4
+battleship potemkin 4
 anatomy of a murder 3
 yankee doodle dandy 3
 arrival 2

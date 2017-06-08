@@ -3,7 +3,7 @@ Citizen Kane
 The Third Man
 Get Out
 Mad Max Fury Road
-The Cabinet of Dr. Caligari
+The Cabinet of Dr Caligari
 All About Eve
 Inside Out
 The Godfather
@@ -54,7 +54,7 @@ Bicycle Thieves
 Army of Shadows
 A Streetcar Named Desire
 The Night of the Hunter
-Dr. Strangelove
+Dr Strangelove
 Rebecca
 Vertigo
 Rosemary s Baby
@@ -68,7 +68,7 @@ Finding Nemo
 Manchester by the Sea
 The Wrestler
 The Babadook
-L.A. Confidential
+LA Confidential
 The Good the Bad and the Ugly
 The 39 Steps
 The Hurt Locker
