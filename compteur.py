@@ -1,7 +1,8 @@
 import operator
 #Liste des noms des fichiers des tops
-liste_top = ["classement_rotten.txt","classement_sensc111.txt","classement_cahiercine.txt","classement_timeout.txt",
-             "classement_top100bfi.txt","classement_top100sc.txt","classement_topafi.txt"]
+liste_top = ["classement_rotten.txt","classement_topafi.txt"]
+    #,"classement_cahiercine.txt","classement_timeout.txt",
+     #        "classement_top100bfi.txt","classement_top100sc.txt","classement_topafi.txt"]
 
 #Retourne le classement par points des films
 def compteur_point():
