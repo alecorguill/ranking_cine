@@ -1,7 +1,7 @@
 The Wizard of Oz
 Citizen Kane
 The Third Man
-Get Out (2017)
+Get Out
 Mad Max: Fury Road
 The Cabinet of Dr. Caligari
 All About Eve
@@ -30,7 +30,7 @@ Sunset Boulevard
 King Kong
 The Adventures of Robin Hood
 Rear Window
-Rashômon
+Rashomon
 Psycho
 Taxi Driver
 Spotlight

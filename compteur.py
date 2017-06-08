@@ -1,6 +1,7 @@
 import operator
 #Liste des noms des fichiers des tops
-liste_top = ["classement_rotten.txt"]
+liste_top = ["classement_rotten.txt","classement_sensc111.txt","classement_cahiercine.txt","classement_timeout.txt",
+             "classement_top100bfi.txt","classement_top100sc.txt","classement_topafi.txt"]
 
 #Retourne le classement par points des films
 def compteur_point():
@@ -14,12 +15,14 @@ def compteur_point():
             try:
                 classement_point[film] += point(classement_film)
             except KeyError:
-                #Oui je peux eviter de calculer deux fois poitn
+                #Oui je peux eviter de calculer deux fois point
                 classement_point.setdefault(film, point(classement_film))
                 pass
             classement_film += 1
     return sorted(classement_point.items(), key=operator.itemgetter(1),reverse=True)
 
+def is_ponc(s):
+    return (s == ':') or (s == '!') or(s == '.')
 
 
 #Retourne le nombre de points associé au classement
@@ -52,6 +55,13 @@ def point(classement):
     else:
         return 100
 '''
-print(compteur_point())
 
+resultat = compteur_point()
+print(resultat)
+
+f_res = open("resultat.txt",'w')
+for couple in resultat:
+    f_res.write(str(couple[0]) + " " + str(couple[1]) + '\n')
+
+f_res.close()
 
