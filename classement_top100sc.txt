@@ -1,20 +1,20 @@
-Fight Club
-Pulp fiction
-2001: A space odyssey
+fight club
+pulp fiction
+2001 A space odyssey
 blade runner
-the godfather
+godfather
 forrest gump
-the dark knight
+dark knight
 inception
-the lord of the rings: the return of the king
-the good, the bad and the ugly
-a clockwork orange
+lord of the rings the return of the king
+good the bad and the ugly
+clockwork orange
 interstellar
-the lord of the rings: the fellowship of the ring
+lord of the rings the fellowship of the ring
 apocalypse now
 eternal sunshine of the spotless mind
-star wars: episode v - the empire strikes back
-the matrix
+star wars episode v the empire strikes back
+matrix
 princess mononoke
 old boy
 back to the future
@@ -23,27 +23,27 @@ mulholland drive
 spirited away
 into the wild
 once upon a time in america
-one flew over the cuckoo’s nest
-the shining
-the big lebowski
+one flew over the cuckoo s nest
+shining
+big lebowski
 gladiator
 drive
 seven
-the shawshank redemption
+shawshank redemption
 goodfellas
 django unchained
 american beauty
 once upon a time in the west
 reservoir dogs
 alien
-the green mile
+green mile
 shutter island
-the lord of the rings: the two towers
-kill bill: volume 1
+lord of the rings the two towers
+kill bill volume 1
 barry lyndon
 mommy
 donnie darko
-the usual suspects
+usual suspects
 requiem for a dream
 american history x
 taxi driver
@@ -53,48 +53,48 @@ v for vendetta
 edward scissorhands
 snatch
 inglourious basterds
-star wars: episode iv - a new hope
+star wars episode iv a new hope
 big fish
 life is beautiful
-amélie
+amelie
 lost in translation
-the prestige
-schindler’s list
-the truman show
+prestige
+schindler s list
+truman show
 gattaca
 grave of the fireflies
 gran torino
 memento
 monty python and the holy grail
-mr. nobody
-the godfather, part II
+mr nobody
+godfather part II
 Titanic
 Her
 seven samurai
-la cité de la peur
+la cite de la peur
 full metal jacket
-howl’s moving castle
+howl s moving castle
 black swan
 dead poets society
 psycho
-the professional
-the lion king
+leon the professional
+lion king
 vertigo
 trainspotting
 la haine
 stalker
-the deer hunter
+deer hunter
 twelve monkeys
-the silence of the lambs
-the thin red line
+silence of the lambs
+thin red line
 cloud atlas
-the fifth element
+fifth element
 whiplash
-the grand budapest hotel
+grand budapest hotel
 no country for old men
-the tree of life
+tree of life
 heat
 avatar
 citizen kane
-it’s a wonderful life
-terminator 2: judgement day
+it s a wonderful life
+terminator 2 judgement day

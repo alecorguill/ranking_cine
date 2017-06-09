@@ -1,26 +1,26 @@
 citizen kane
-the godfather
+godfather
 casablanca
 raging bull
-singin’ in the rain
+singin in the rain
 gone with the wind
 lawrence of arabia
 schindler s list
 vertigo
-the wizard of oz
+wizard of oz
 city lights
-the searchers
+searchers
 star wars episode iv a new hope
 psycho
 2001 a space odyssey
 sunset boulevard
-the graduate
-the general
+graduate
+general
 on the waterfront
 it s a wonderful life
 chinatown
 some like it hot
-the grapes of wrath
+grapes of wrath
 ET The Extra Terrestrial
 to kill a mockinbird
 mr smith goes to washington
@@ -28,71 +28,71 @@ high noon
 all about eve
 double indemnity
 apocalypse now
-the maltese falcon
-the godfather part II
+maltese falcon
+godfather part II
 one flew over the cuckoo s nest
 snow white and the seven dwarfs
 annie hall
-the bridge on the river kwai
-the best years of our lives
-the treasure of the sierra madre
+bridge on the river kwai
+best years of our lives
+treasure of the sierra madre
 dr strangelove
-the sound of music
+sound of music
 king kong
 bonnie and clyde
 midnight cowboy
-the philadelphia story
+philadelphia story
 shane
 it happened one night
-a streetcar named desire
+streetcar named desire
 rear window
 intolerance
-the lord of the rings the fellowship of the ring
+lord of the rings the fellowship of the ring
 west side story
 taxi driver
-the deer hunter
+deer hunter
 m*a*s*h
 north by northwest
 jaws
 rocky
-the gold rush
+gold rush
 nashville
 duck soup
 sullivan s travel
 american graffiti
 cabaret
 network
-the african queen
+african queen
 raiders of the lost ark
 who s afraid of virginia woolf
 unforgiven
 tootsie
-a clockwork orange
+clockwork orange
 saving private ryan
-the shawshank redemption
+shawshank redemption
 butch cassidy and the sundance kid
-the silence of the lambs
+silence of the lambs
 in the heat of the night
 forrest gump
 all the president s men
 modern times
-the wild bunch
-the apartment
+wild bunch
+apartment
 spartacus
-sunrise
+sunrise a song of two humans
 titanic
 easy rider
-a night at the opera
+night at the opera
 platoon
 12 angry men
 Bringing up baby
-the sixth sense
+sixth sense
 swing time
 sophie s choice
 goodfellas
-the french connection
+french connection
 pulp fiction
-the last picture show
+last picture show
 do the right thing
 blade runner
 yankee doodle dandy

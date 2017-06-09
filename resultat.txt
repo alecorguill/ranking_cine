@@ -1,169 +1,432 @@
-citizen kane 199
-the wizard of oz 191
-the godfather 191
-casablanca 184
-et the extra terrestrial 167
-all about eve 167
-sunset boulevard 157
-psycho 154
-snow white and the seven dwarfs 149
-the maltese falcon 146
-it happened one night 143
-vertigo 134
-king kong 131
-north by northwest 123
-rear window 122
-gone with the wind 120
-the treasure of the sierra madre 116
-taxi driver 115
-the philadelphia story 113
-modern times 112
-dr strangelove 106
-a streetcar named desire 100
-the third man 98
-raging bull 97
-get out 97
-singin’ in the rain 96
-mad max fury road 96
-lawrence of arabia 95
-the cabinet of dr caligari 95
-high noon 93
-on the waterfront 93
-inside out 93
-schindler s list 93
-the grapes of wrath 92
-metropolis 91
-city lights 90
-the searchers 89
-star wars episode iv a new hope 88
-singin in the rain 87
-2001 a space odyssey 86
-boyhood 85
-laura 84
-the graduate 84
-nosferatu a symphony of horror 83
-the general 83
-moonlight 81
-it s a wonderful life 81
-chinatown 80
-a hard day s night 80
-some like it hot 79
-the battle of algiers 79
-la grande illusion 78
-the godfather part ii 77
-to kill a mockinbird 76
-repulsion 75
-mr smith goes to washington 75
-12 years a slave 74
-gravity 73
-double indemnity 72
-apocalypse now 71
-the adventures of robin hood 70
-rashomon 68
-one flew over the cuckoo s nest 68
-annie hall 66
-spotlight 65
-the bridge on the river kwai 65
-the best years of our lives 64
-selma 64
-toy story 3 63
-argo 62
-12 angry men 62
-the sound of music 61
-toy story 2 61
-the bride of frankenstein 60
-bonnie and clyde 59
-m 59
-logan 58
-midnight cowboy 58
-zootopia 57
-shane 56
-alien 55
-seven samurai 54
-intolerance 52
-up 52
-all quiet on the western front 51
-the lord of the rings the fellowship of the ring 51
-west side story 50
-jaws 50
-the 400 blows 50
-bicycle thieves 49
-the deer hunter 48
-m*a*s*h 47
-army of shadows 47
-the night of the hunter 45
-rocky 44
-rebecca 43
-the gold rush 43
-nashville 42
-duck soup 41
-rosemary s baby 41
-sullivan s travel 40
-frankenstein 40
-american graffiti 39
-the conformist 39
-the dark knight 38
-cabaret 38
-network 37
-la la land 37
-the african queen 36
-touch of evil 36
-raiders of the lost ark 35
-star wars: episode vii the force awakens 35
-who s afraid of virginia woolf 34
-finding nemo 34
-unforgiven 33
-manchester by the sea 33
-the wrestler 32
-tootsie 32
-the babadook 31
-a clockwork orange 31
-saving private ryan 30
-la confidential 30
-the good the bad and the ugly 29
-the shawshank redemption 29
-butch cassidy and the sundance kid 28
-the 39 steps 28
-the hurt locker 27
-the silence of the lambs 27
-skyfall 26
-in the heat of the night 26
-forrest gump 25
-pinocchio 24
-all the president s men 24
-brooklyn 23
-the last picture show 23
-the wild bunch 22
-open city 22
-the apartment 21
-tokyo story 21
-hell or high water 20
-spartacus 20
-sunrise 19
-star trek 18
-titanic 18
-easy rider 17
-the jungle book 16
-a night at the opera 16
-platoon 15
-wonder woman 15
-bringing up baby 13
-the wages of fear 13
-the sixth sense 12
-roman holiday 12
-swing time 11
-sophie s choice 10
-harry potter and the deathly hallows part 2 10
-goodfellas 9
-it follows 9
-toy story 8
-the french connection 8
-pulp fiction 7
-man on wire 7
-do the right thing 5
-blade runner 4
+godfather 500
+tootsie 200
+pulp fiction 200
+12 angry men 192
+shawshank redemption 178
+godfather part ii 178
+citizen kane 171
+fight club 164
+forrest gump 157
+2001 a space odyssey 156
+dark knight 135
+woman under the influence 124
+apocalypse now 123
+star wars episode v the empire strikes back 118
+tokyo story 117
+good the bad and the ugly 117
+goodfellas 115
+taxi driver 113
+cinema paradiso 105
+schindler s list 102
+the wizard of oz 100
+green mile 94
+to kill a mockingbird 92
+raiders of the lost ark 90
+seven samurai 84
+lord of the rings the return of the king 82
+once upon a time in the west 82
+harakiri 80
+annie hall 74
+blade runner 72
+django unchained 72
+singin in the rain 68
+jaws 66
+one flew over the cuckoo s nest 63
+lord of the rings the fellowship of the ring 61
+boogie nights 60
+the third man 60
+red beard 60
+all about eve 58
+vertigo 58
+raging bull 56
+8 1/2 55
+red shoes 55
+inception 55
+shining 55
+once upon a time in america 53
+get out 50
+modern times 46
+casablanca 46
+mad max fury road 45
+apartment 44
+gladiator 44
+gran torino 44
+psycho 43
+the cabinet of dr caligari 40
+lord of the rings the two towers 39
+clockwork orange 39
+interstellar 39
+night of the hunter 39
+dog day afternoon 38
+star wars episode iv a new hope 37
+sunset boulevard 37
+on the waterfront 36
+chinatown 36
+matrix 35
+life is beautiful 35
+kes 34
+withnail and i 34
+some like it hot 34
+spirited away 33
+alien 32
+back to the future 31
+andrei rublev 31
+inside out 30
+wizard of oz 30
+princess mononoke 29
+usual suspects 28
+mirror 27
+metropolis 26
+rear window 26
+seven 26
+leon the professional 26
+rosemary s baby 26
+sunrise a song of two humans 26
+bicycle thieves 26
+et the extra terrestrial 25
+the godfather 25
+it s a wonderful life 25
+lion king 25
+persona 25
+hole 25
+american beauty 24
+breaking the waves 24
+city lights 24
+barry lyndon 23
+american history x 22
+old boy 22
+400 blows 22
+come and see 21
+whiplash 21
+great dictator 21
+mommy 21
+rashomon 21
+grave of the fireflies 21
+fail safe 20
+deer hunter 20
+la haine 20
+eternal sunshine of the spotless mind 20
+fanny and alexander 20
+dersu uzala 19
+dr strangelove 19
+requiem for a dream 19
+m 19
+breathless 19
+fargo 18
+high and low 18
+who s afraid of virginia woolf 18
+stalker 17
+touch of evil 17
+silence of the lambs 17
+intouchables 17
+it happened one night 17
+there will be blood 17
+woman in the dunes 16
+reservoir dogs 16
+big lebowski 15
+matter of life and death 15
+paths of glory 15
+sting 15
+toy story 3 15
+sherlock junior 15
+third man 15
+edward scissorhands 14
+waiting for guffman 14
+boyhood 14
+terminator 2 judgement day 14
+philadelphia story 14
+la vie en rose 14
+north by northwest 13
+laura 13
+12 years a slave 13
+aliens 13
+la grande illusion 13
+lawrence of arabia 13
+star is born 12
+saving private ryan 12
+la dolce vita 12
+an american in paris 12
+harold and maude 12
+celebration 12
+nosferatu a symphony of horror 12
+mean streets 12
+general 12
+lives of others 12
+snow white and the seven dwarfs 11
+i am cuba 11
+star wars episode vi the return of the jedi 11
+mulholland drive 11
+into the wild 11
+thin red line 11
+brazil 11
+okami kodomo no ame to yuki 11
+donnie darko 11
+royal tenenbaums 10
+truly madly deeply 10
+army of shadows 10
+gone with the winds 10
+memento 10
+turin horse 10
+moonlight 10
+shutter island 10
+all that jazz 10
+prestige 10
+midnight cowboy 10
+this is england 10
+ordet 10
+princess bride 10
+pianist 10
+gone with the wind 10
+nil by mouth 10
+au hasard balthazar 9
+battle of algiers 9
+king kong 9
+drive 9
+repulsion 9
+passion of joan of arc 9
+the maltese falcon 9
+l atalante 9
+the battle of algiers 9
+monty python and the holy grail 9
+road 9
+a hard day s night 9
+full metal jacket 9
+cranes are flying 9
+la regle du jeu 9
+die hard 9
+gravity 9
+cidade de deus 9
+heat 8
+being there 8
+dark knight rises 8
+sacrifice 8
+monster 8
+notorious 8
+amelie 8
+streetcar named desire 8
+to be or not to be 7
+l avventura 7
+alabama monroe 7
+butch cassidy and the sundance kid 7
+up 7
+anatomy of a murder 7
+close encounters of the third kind 7
+dragons 2 7
+toy story 2 7
+argo 7
+il vangelo secondo matteo 7
+spotlight 7
+the adventures of robin hood 7
+tale of the princess kaguya 7
+close up 7
+sleuth 7
+shop around the corner 7
+boy and the beast 7
+selma 7
+amarcord 7
+zootopia 6
+searchers 6
+million dollar baby 6
+departed 6
+snatch 6
+hill 6
+inglourious basterds 6
+la confidential 6
+man escaped 6
+tender mercies 6
+logan 6
+the treasure of the sierra madre 6
+kid 6
+kind hearts and coronets 6
+wall e 6
+the bride of frankenstein 6
+kill bill volume 1 6
+room for romeo brass 6
+prisoners 6
+nous trois ou rien 6
+warrior 6
+playtime 6
+hour of the wolf 6
+jurassic park 6
+the philadelphia story 6
+dragons 6
+this is spinal tap 6
+evil dead 2 6
+scenes from a marriage 6
+viridiana 6
+naked 6
+all quiet on the western front 6
+amour 6
+help 6
+blue velvet 6
+le mepris 6
+children of paradise 6
+casino royale 5
+life of others 5
+conformist 5
+rush 5
+his girl friday 5
+v for vendetta 5
+the night of the hunter 5
+pickpocket 5
+big fish 5
+man with a movie camera 5
+a streetcar named desire 5
+lost in translation 5
+pather panchali 5
+incendies 5
+man who shot liberty valance 5
+rebecca 5
+song of the sea 5
+blow up 5
+fury 5
+shoah 5
+ugetsu 5
+l eclisse 5
+vice versa 5
+dallas buyers club 5
+grand budapest hotel 5
+the 400 blows 5
+finding nemo 4
+indiana jones and the last crusade 4
+gattaca 4
+warui yatsu hodo yoku nemuru 4
+cameraman 4
+african queen 4
+truman show 4
+truth 4
+three colours red 4
+y tu mama tambien 4
+la la land 4
+mr nobody 4
+aguirre wrath of god 4
+diabolique 4
+cook the thief his wife and her lover 4
+king s speech 4
+gertrud 4
+graduate 4
+ikiru 4
+the babadook 4
+frankenstein 4
+fault in our stars 4
+the conformist 4
+badlands 4
+the wrestler 4
+goonies 4
+star wars: episode vii the force awakens 4
+cache 4
+manchester by the sea 4
+piano 4
+the dark knight 4
+freaks 4
+stand by me 4
+das boot 4
+memories of murder 4
+mustang 4
 battleship potemkin 4
-anatomy of a murder 3
-yankee doodle dandy 3
-arrival 2
-ben-hur 1
+carmen jones 4
+witness for the prosecution 4
+de nuremberg a nuremberg 3
+hidden 3
+open city 3
+the hurt locker 3
+my life to live 3
+sansho the bailiff 3
+dead poets society 3
+in the mood for love 3
+treasure of the sierra madre 3
+journey to italy 3
+baraka 3
+the good the bad and the ugly 3
+titanic 3
+black swan 3
+wild bunch 3
+brooklyn 3
+ghost and mrs muir 3
+her 3
+manhattan 3
+seventh seal 3
+skyfall 3
+paris texas 3
+life and death of colonel blimp 3
+howl s moving castle 3
+perks of being a wallflower 3
+la cite de la peur 3
+le voyage dans la lune 3
+toy story 3
+like stars on earth 3
+braveheart 3
+sans soleil 3
+pinocchio 3
+the 39 steps 3
+spartacus 3
+koyaanisqatsi 3
+man in a dream 3
+gone girl 2
+amadeus 2
+carlito s way 2
+the last picture show 2
+crimes and misdemeanors 2
+roman holiday 2
+trainspotting 2
+wonder woman 2
+les jeux des nuages et de la pluie 2
+carrie 2
+twelve monkeys 2
+great beauty 2
+great escape 2
+magnolia 2
+batman begins 2
+the jungle book 2
+una giornata particolare 2
+husbands 2
+the grapes of wrath 2
+high noon 2
+double indemnity 2
+ferris bueller s day off 2
+love actually 2
+avatar 2
+hell or high water 2
+mr smith goes to washington 2
+star trek 2
+king of comedy 2
+salo o le 120 giornate di sodoma 2
+hustler 2
+the wages of fear 2
+cloud atlas 2
+sophie s choice 2
+mr deeds goes to town 2
+los olvidados 2
+when harry met sally 2
+fear eats the soul 2
+arrival 1
+gold rush 1
+sixth sense 1
+le corbeau 1
+l argent 1
+fifth element 1
+tree of life 1
+un chien andalou 1
+la maman et la putain 1
+opening night 1
+werckmeister harmonies 1
+an autumn afternoon 1
+it follows 1
+zero de conduite 1
+pride 1
+dr mabuse the gambler 1
+un condamne a mort s est echappe 1
+yojimbo 1
+babam ve oglum 1
+network 1
+harry potter and the deathly hallows part 2 1
+three idiots 1
+spirit of the beehive 1
+no country for old men 1
+beau travail 1
+we all loved each other so much 1
+la grande vadrouille 1
+man on wire 1
+pierrot le fou 1
+the godfather part ii 1
+letter from an unknown woman 1
